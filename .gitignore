@@ -1,0 +1,29 @@
+# Power BI
+*.pbix.rsd
+*.pbix.info
+SecurityBindings
+
+# Temporary files
+~$*.pbix
+*.tmp
+*.temp
+*.bak
+
+# System files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Backup & auto-recovery
+*.backup
+Backup/
+AutoRecovery/
+
+# Sensitive information
+*credentials*
+*connection*
+*.odc
+
+# VS Code
+.vs/
+.vscode/
