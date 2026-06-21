@@ -5,7 +5,6 @@
 An interactive \*\*Power BI dashboard\*\* that tracks sales, retailer, regional, and brand performance for a beverage portfolio — transforming fragmented spreadsheets into a single source of truth.
 
 
-
 !\[Dashboard Preview](https://raw.githubusercontent.com/Gift-Legbo/DataTechEd/refs/heads/main/Puresip-Dashboard/Assets/Dashboard%20Screenshot.png)
 
 \---
