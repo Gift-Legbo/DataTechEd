@@ -6,7 +6,7 @@ An interactive \*\*Power BI dashboard\*\* that tracks sales, retailer, regional,
 
 
 
-!\[Dashboard Preview](link-to-your-screenshot.png)
+!\[Dashboard Preview](https://github.com/Gift-Legbo/DataTechEd/blob/main/Puresip-Dashboard/Assets/Dashboard%20Screenshot.png?raw=true)
 
 
 
