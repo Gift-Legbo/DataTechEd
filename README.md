@@ -8,11 +8,7 @@ An interactive \*\*Power BI dashboard\*\* that tracks sales, retailer, regional,
 
 !\[Dashboard Preview](https://github.com/Gift-Legbo/DataTechEd/blob/main/Puresip-Dashboard/Assets/Dashboard%20Screenshot.png?raw=true)
 
-
-
 \---
-
-
 
 \## The Problem
 
@@ -31,12 +27,6 @@ The company relied on individual spreadsheets managed by each regional manager t
 
 
 The goal was to use Power BI to \*\*streamline data management\*\* and surface \*\*actionable insights\*\* on sales trends and regional performance.
-
-
-
-\---
-
-
 
 \## The Solution
 
